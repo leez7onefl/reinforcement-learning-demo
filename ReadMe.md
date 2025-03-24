@@ -32,7 +32,6 @@ ___
 - Python 3.8+
 - Streamlit
 
-___
 ### Installation
 
 1. Clone the repository :
@@ -44,27 +43,20 @@ ___
     ```bash
     built.bat
     ```
-___
+
 ### Run Streamlit App
 
 ```bash
 launch.bat
 ```
 
+___
 #### The projects contain three pages : 
 
 
-___
 
 
 ___
-
-___
-
-
-___
-
-
 ## Contribution
 
 Feel free to contribute by creating issues or submitting pull requests.
