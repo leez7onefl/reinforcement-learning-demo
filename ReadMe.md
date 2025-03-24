@@ -90,8 +90,7 @@ Embedded Tensorboard in streamlit
 ![eval3](https://github.com/user-attachments/assets/87453b11-5adb-4b3f-b52f-7f46dd7c1771)
 <ins>Eval seen from console</ins>
 ![eval4](https://github.com/user-attachments/assets/cd8839c8-dfec-47c4-bfbc-266225b0e0dd)
-
-![eval5](https://github.com/user-attachments/assets/be82dfaf-100c-43c8-80bf-04775ec1c89c)
+<ins>All/any models comparison</ins>
 
 ---
 ## Contribution
