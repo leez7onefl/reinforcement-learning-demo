@@ -1,6 +1,6 @@
-# Deep Reinforcment Learning Algorithms
+# Deep Reinforcement Learning Algorithms
 
-This repository contains the final project for the "*Reinforcment Learning*" course at EFREI, 2025.
+This repository contains the final project for the "*Reinforcement Learning*" course at EFREI, 2025.
 
 ## Project Overview
 
