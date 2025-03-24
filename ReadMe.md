@@ -22,8 +22,7 @@ rl_final/
 ├── requirements.txt         # Python dependencies
 ├── toucan.jpg               # A chill toucan named Barry, he is there for test purposes (please say hi)
 ```
-___
-
+---
 ## Getting Started
 
 ### Prerequisites
@@ -49,7 +48,7 @@ ___
 launch.bat
 ```
 
-___
+---
 
 ## UI 
 
@@ -79,7 +78,7 @@ ___
 
 ![eval5](https://github.com/user-attachments/assets/be82dfaf-100c-43c8-80bf-04775ec1c89c)
 
-___
+---
 ## Contribution
 
 Feel free to contribute by creating issues or submitting pull requests.
