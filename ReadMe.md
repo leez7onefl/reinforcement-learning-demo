@@ -9,6 +9,14 @@ This repository contains the final project for the "*Reinforcement Learning*" co
 ```
 rl_final/
 │
+├── notebook/                # Notebook final
+    ├── TH_Final_Project_student.ipynb
+│
+├──│ utils/                 
+    ├── evaluate.py
+    ├── train.py
+    ├── video_utils.py
+│
 ├── main.py                  # Main streamlit, organize the pages
 ├── training.py              # training part 
 ├── evaluation.py            # evaluation part
