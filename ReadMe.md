@@ -12,10 +12,18 @@ rl_final/
 ├── notebook/                # Notebook final
     ├── TH_Final_Project_student.ipynb
 │
-├──│ utils/                 
+├── utils/                 
     ├── evaluate.py
     ├── train.py
     ├── video_utils.py
+│
+├── models/
+    ├── highway_dqn_final.zip
+    ├── highway_ppo_final.zip
+    ├── highway_a2c_final.zip
+    ├── highway_qrdqn_final.zip
+    ├── highway_trpo_final.zip
+    ├── highway_ars_final.zip
 │
 ├── main.py                  # Main streamlit, organize the pages
 ├── training.py              # training part 
