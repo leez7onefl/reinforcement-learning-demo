@@ -1,5 +1,3 @@
----
-
 # Deep Reinforcment Learning Algorithms
 
 This repository contains the final project for the "*Reinforcment Learning*" course at EFREI, 2025.
