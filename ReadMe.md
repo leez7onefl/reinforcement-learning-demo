@@ -1,17 +1,15 @@
 ---
 
-# Lab4 Gen AI for computer Vision
+# Deep Reinforcment Learning Algorithms
 
-This repository contains the lab4 for the "*Generative AI for Computer Vision*" course at EFREI, 2025.
+This repository contains the final project for the "*Reinforcment Learning*" course at EFREI, 2025.
 
 ## Project Overview
-
-The objective of this project is to approach the concept of Diffusion Models. [The base dataset](https://fr.wikipedia.org/wiki/CIFAR-10). 
 
 ## Project Structure
 
 ```
-lab4_diffusion_models/
+rl_final/
 │
 ├── main.py                  # Main streamlit, organize the pages
 ├── exercice1.py             # Exercice 1 of the lab
@@ -52,7 +50,7 @@ ___
 launch.bat
 ```
 
-#### The projects contain four pages : 
+#### The projects contain three pages : 
 
 
 ___
