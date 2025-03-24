@@ -1,0 +1,10 @@
+gymnasium>=1.0.0a2
+farama-notifications>=0.0.1
+numpy>=1.21.0
+pygame>=2.0.2
+stable-baselines3[extra]
+highway_env
+sb3-contrib
+torch --index-url https://download.pytorch.org/whl/cu126
+torchvision --index-url https://download.pytorch.org/whl/cu126
+torchaudio --index-url https://download.pytorch.org/whl/cu126
